@@ -9,12 +9,12 @@ title: Terms of Service
 
 Welcome to Inner Space (the "Application"), a mobile application developed by the Inner Space Team ("we," "us," or "our").
 
-Please read these Terms of Service ("Terms") carefully before downloading, installing, or using the Application. By accessing or using the Application, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the Application.
+Please read these Terms of Service ("Terms") carefully before using the Application. By accessing or using the Application, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the Application.
 
 ---
 
 ### 1. ELIGIBILITY
-The Application is intended for users who are at least 13 years of age (or the minimum legal age in your country). If you are under the age of majority in your jurisdiction, you may only use the Application under the supervision of a parent or legal guardian who agrees to be bound by these Terms. By using the Application, you agree to comply with all applicable local, national, and international laws and regulations, as well as the policies set forth by the Google Play Store.
+By using the Application, you agree to comply with all applicable local, national, and international laws and regulations, as well as the policies set forth by the Google Play Store.
 
 ### 2. SERVICES AND GOOGLE ACCOUNT INTEGRATION
 * **Guest Access:** You can use the core and basic features of the Application without creating an account or logging in ("Guest Use").
