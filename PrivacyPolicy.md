@@ -4,7 +4,7 @@ permalink: /privacy/
 title: Privacy Policy
 ---
 
-# Privacy Policy for Inner Space
+# Privacy Policy
 
 **Last updated: June 27, 2026**
 
